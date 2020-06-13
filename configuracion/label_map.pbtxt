@@ -1,0 +1,13 @@
+item {
+  id: 1
+  name: 'herpes'
+}
+item {
+  id: 2
+  name: 'vitiligo'
+}
+item {
+  id: 3
+  name: 'tina'
+}
+

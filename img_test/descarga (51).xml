@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>descarga (51).jpg</filename>
+	<path>C:\Users\Saenz_16\Documents\9no Ciclo\IA\deteccion_objetosV2\images\descarga (51).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>283</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>herpes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>38</ymin>
+			<xmax>201</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

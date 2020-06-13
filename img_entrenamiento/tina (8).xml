@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes4</folder>
+	<filename>tina (8).jpg</filename>
+	<path>C:\Users\Saenz_16\Documents\9no Ciclo\IA\Nueva_Categoria\imagenes4\tina (8).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>312</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tina</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>42</ymin>
+			<xmax>212</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>

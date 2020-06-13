@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_prueba</folder>
+	<filename>descarga (16).jpg</filename>
+	<path>C:\Users\Saenz_16\Documents\9no Ciclo\image_prueba\descarga (16).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>276</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>herpes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>7</ymin>
+			<xmax>266</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes3</folder>
+	<filename>vitiligo (75).jpg</filename>
+	<path>C:\Users\Saenz_16\Documents\9no Ciclo\IA\Nueva_Categoria\imagenes3\vitiligo (75).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>281</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vitiligo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>11</ymin>
+			<xmax>257</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

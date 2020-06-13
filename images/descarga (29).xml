@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>descarga (29).jpg</filename>
+	<path>C:\Users\Saenz_16\Downloads\imagenes\descarga (29).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>210</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>herpes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>52</ymin>
+			<xmax>148</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

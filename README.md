@@ -4,7 +4,7 @@ Modelo para reconocer enfermedades de la piel como herpes, vitiligo, tiña
 Proyecto creado con el fin de utilizar las nuevas tecnologías en el ambito de la inteligencia artificial en esta practica se utilizo un modelo ya preentrenado que nos proporciona TensorFlow asi mismo utilizamos una API denominada resnet101_coco solo necesitas presentar una imagen o fotografia de una parte del cuerpo donde tengas alguna imperfección y el modelo te da como respuesta un porcentaje de que puede ser herpes, vitiligo o tiña.
 
 
-![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/descarga-_14_.jpeg)
+![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/aaaa.jpeg)
 
 ![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/aaa.jpeg)
 
@@ -15,6 +15,9 @@ Proyecto creado con el fin de utilizar las nuevas tecnologías en el ambito de l
 ![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/tina_40_.jpeg)
 
 ![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/tina_53_.jpeg)
+
+
+![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/vitiligo_66_.jpeg)
 
 ![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/vitiligo_57_.jpeg)
 
@@ -43,6 +46,15 @@ Proyecto creado con el fin de utilizar las nuevas tecnologías en el ambito de l
 8. [Matplotlib](https://matplotlib.org/)
 
 
+# Versiones
+
+A continuación se muestra en la Tabla I el detalle de cada versión especificando el commit y su descripción de la funcionalidad incluida.
+
+| No. | Commit | Descripción |
+| ------ | ------ | ------ |
+| 1 | a0d75c6beafe0cd9fa31188a5e0e103275164be4  | Se cargan las imagenes y se crean sus XML con Labellmg |
+| 2 | 24183893cf4839e87b5ac4a9c7dafc3fd1f7baf0  | Se configura el modelo resnet_coco_101 |
+| 3 | 1f5fe62747d30048d442289f1495869eac1034b7  | No se subio debido al peso de los modelos esta el link en drive  |
 
 
 

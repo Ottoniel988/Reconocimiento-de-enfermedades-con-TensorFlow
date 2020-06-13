@@ -4,7 +4,7 @@ Modelo para reconocer enfermedades de la piel como herpes, vitiligo, tiña
 Proyecto creado con el fin de utilizar las nuevas tecnologías en el ambito de la inteligencia artificial en esta practica se utilizo un modelo ya preentrenado que nos proporciona TensorFlow asi mismo utilizamos una API denominada resnet101_coco solo necesitas presentar una imagen o fotografia de una parte del cuerpo donde tengas alguna imperfección y el modelo te da como respuesta un porcentaje de que puede ser herpes, vitiligo o tiña.
 
 
-![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/aaaa.jpeg)
+![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/descarga-_14_.jpeg)
 
 ![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/aaa.jpeg)
 

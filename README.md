@@ -6,7 +6,9 @@ Proyecto creado con el fin de utilizar las nuevas tecnologías en el ambito de l
 
 ![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/descarga-_14_.jpeg)
 
-![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/aaa.jpeg)
+
+![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/aaaa.jpeg)
+
 
 ![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/tina_28_.jpeg)
 
@@ -14,7 +16,7 @@ Proyecto creado con el fin de utilizar las nuevas tecnologías en el ambito de l
 
 ![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/tina_40_.jpeg)
 
-![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/tina_53_.jpeg)
+![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/vitiligo_53_.jpeg)
 
 
 ![Screenshot](https://github.com/Ottoniel988/Reconocimiento-de-enfermedades-con-TensorFlow/blob/master/output/img_pruebas/vitiligo_66_.jpeg)
